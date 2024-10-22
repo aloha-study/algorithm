@@ -1,7 +1,11 @@
-# 5주차 문제 (2024. 10. 14. ~ 2024. 10. 21.)
+# 5주차 문제 (2024. 10. 14. ~ 2024. 10. 28.)
 
 - Gold 5   | [1074. Z](https://www.acmicpc.net/problem/1074)
+- Gold 5   | [7569. 토마토](https://www.acmicpc.net/problem/7569)
 - Silver 1 | [1389. 케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)
+- Silver 1 | [1697. 숨바꼭질](https://www.acmicpc.net/problem/1697)
 - Silver 1 | [6064. 카잉 달력](https://www.acmicpc.net/problem/6064)
+- Silver 1 | [9465. 스티커](https://www.acmicpc.net/problem/9465)
+- Silver 1 | [11403. 경로 찾기](https://www.acmicpc.net/problem/11403)
 - Silver 1 | [14940. 쉬운 최단거리](https://www.acmicpc.net/problem/14940)
 - Silver 2 | [21736. 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736)
